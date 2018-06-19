@@ -2,7 +2,7 @@ class GitStart < Formula
     desc "A git flow style tool that creates branches with Pivotal IDs in them"
     homepage "https://github.homedepot.com/ENY5JKO/git-start"
     url "https://github.homedepot.com/ENY5JKO/git-start/releases/download/0.0.1/git-start-0.0.1.tar.gz"
-    sha256 "1aef1148229c9655fbb8ef5d61eb78d50dc059f2eafab1c79b6bc3531129c7d5"
+    sha256 "5e2e5ac5406f7ddd3ee45bb4f3014aa04812001b288acedec17ff20229ecc06c"
   
     bottle :unneeded
   
